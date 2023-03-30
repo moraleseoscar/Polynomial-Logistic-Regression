@@ -1,0 +1,2 @@
+# Polynomial Logistic Regression
+Vector implementation documentation of the logistic regression (gradient descent) algorithm only using numpy and matplotlib. The data set provided is part of the Kaggle platform, within which physical and contextual conditions are displayed for more than 4,000 heart disease patients. The dataset associates each patient with a label (1 = had a cardiac arrest, 0 = did not have a cardiac arrest).
